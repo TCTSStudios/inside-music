@@ -1,0 +1,17 @@
+artist:'DJ Capo',
+track:'Don't mess up with the Mafia',
+folder:'songs',
+segments:6,
+duration:1:15,
+tracknames: ['guitar_5', 'click', 'tom_3', 'splat'],
+names: ['guitar_pro', 'click, 'tom_three', 'splat'],
+soundRings: {
+      StartColor: '#ff1010',
+      endColor: '#d1d0d5',
+      shape: 'Sphere',
+      size: 9
+},
+floor: {
+     color: '#ff6f5f' //'#f10f10'
+},
+color : 'rgb(40, 150, 250)',
